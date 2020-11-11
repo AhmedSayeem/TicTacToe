@@ -3,7 +3,7 @@
  *
  * STUDENTS: Nothing to change here.
  *
- * @author Andrew Vardy
+ * @author Ashfaq Uddin Ahmed
  */
 
 public enum GameStatus {
